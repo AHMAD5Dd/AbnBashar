@@ -1,6 +1,7 @@
 {
-    "name": "Tele Checker",
+    "name": "Telegram @BHthon",
     "description": "A Telegram bot for checking rare users",
+"logo" : "https://graph.org/file/388de2462d8552e4119cf.jpg", 
     "keywords": [
         "telegram",
         "bot",
@@ -11,18 +12,18 @@
         "maker",
         "generator"
     ],
-        "repository": "https://github.com/J5J5/for_J5J5",
-    "website": "https://t.me/k_8_u",
-    "success_url": "https://t.me/k_8_u",
+        "repository": "https://github.com/AHMED5Dd/abnBashar",
+    "website": "https://t.me/BHthon",
+    "success_url": "https://t.me/bbqqqb",
     "env": {
         "BOT_TOKEN": {
-            "description": "ضع التوكن الخاص بك https://t.me/BotFather"
+            "description":  "(ضع التوكن البوت)"
         },
         "SUDO": {
-            "description": "ضع الايدي الخاص بك"
+            "description": "ضع الايدي الخاص بك "
         },
         "HEROKU": {
-            "description": "اسم التطبيق [خلي نفس اول شي لتغيير]",
+            "description": "[اسم التطبيق]",
             "required": "False",
             "value": ""
         }
